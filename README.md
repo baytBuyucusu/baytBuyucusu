@@ -18,3 +18,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baytbuyucusu&" alt="baytbuyucusu" /></p>
 
+
+
+
+![snake gif](https://github.com/baytBuyucusu/baytBuyucusu/blob/output/github-contribution-grid-snake.gif)
+
