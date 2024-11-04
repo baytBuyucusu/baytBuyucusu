@@ -1,60 +1,112 @@
-<h1 align="center">Hi 👋, I'm Rukiye</h1>
+<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+
+<h1> 💫 About Me  </h1>
+
+<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Summary.svg" /></a>
+
+<h3>
+  - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web applications<br/>
+  - 📦 Blockchain enthusiast with 3+ years of experience in designing, developing, and deploying innovative solutions<br/>
+  - 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
+  - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/>
+</h3>
+<a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
+<br/><br/>
+
+<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
 
+### Languages
+<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JavaScript" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
+<a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/php.svg" /></a>
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
+<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" /></a>
+<a href="https://soliditylang.org/" target="_blank"><img align="left" alt="Solidity" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/solidity.svg" /></a>
+<a href="https://go.dev/" target="_blank"><img align="left" alt="Golang" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/golang.svg" /></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img align="left" alt="Rust" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/rust.svg" /></a>
+<br/><br/>
 
+### Libraries
+<a href="https://react.dev/" target="_blank"><img align="left" alt="React" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
+<a href="https://jquery.com/" target="_blank"><img align="left" alt="jQuery" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/jquery.svg" /></a>
+<a href="https://redux.js.org/" target="_blank"><img align="left" alt="Redux" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/redux.svg" /></a>
+<a href="https://threejs.org/" target="_blank"><img align="left" alt="Three.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/three.js.svg" /></a>
+<a href="https://docs.web3js.org/" target="_blank"><img align="left" alt="Web3.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/web3.js.png" /></a>
+<a href="https://docs.ethers.org/v5/" target="_blank"><img align="left" alt="etherjs" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/etherjs.png" /></a>
+<a href="https://nodejs.org/en" target="_blank"><img align="left" alt="Node.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
+<br/><br/>
 
+### Frameworks
 
+<a href="https://hardhat.org/" target="_blank"><img align="left" alt="Hardhat" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/hardhat.svg" /></a>
+<a href="https://archive.trufflesuite.com/" target="_blank"><img align="left" alt="Truffle" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/truffle.png" /></a>
+<a href="https://cosmwasm.com/" target="_blank"><img align="left" alt="Cosmwasm" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/cosmwasm.jfif" /></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/django.svg" /></a>
+<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/nextjs.svg" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
+<a href="https://angular.dev/" target="_blank"><img align="left" alt="Angular" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/angular.gif" /></a>
+<a href="https://vuejs.org/" target="_blank"><img align="left" alt="Vue" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/vue.gif" /></a>
+<!-- <a href="https://getbootstrap.com/" target="_blank"><img align="left" alt="Bootstrap" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif" /></a> -->
+<br/><br/>
 
-<p align="left">
-</p>
+### Database
+<a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif" /></a>
+<br/><br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Tools
+<a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/aws.svg" /></a>
+<a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/docker.svg" /></a>
+<a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/kubernetes.svg" /></a>
+<a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/jenkins.svg" /><br/></a>
+<br/><br/>
+<a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baytbuyucusu&show_icons=true&locale=en&layout=compact" alt="baytbuyucusu" /></p>
+<div style="display: flex; align-items: center">
+  <h1> 
+    My GitHub Stats 
+    <a href="#-my-github-stats--">
+      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
+    </a>
+  </h1>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baytbuyucusu&show_icons=true&locale=en" alt="baytbuyucusu" /></p>
+<table align="center">
+  <tr>
+    <td align="center" width="45%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=baytBuyucusu&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" alt="baytBuyucusu" /></a>
+    </td>
+    <td align="center" width="55%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baytBuyucusu&theme=2077" alt="baytBuyucusu" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="40%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=baytBuyucusu&theme=dark&hide_border=true&border_radius=9.4&ring=3A0CA3&fire=D62828&dates=00F5D4&sideLabels=FFC300&stroke=8338EC&currStreakLabel=FFC300" alt="baytBuyucusu" /></a>
+    </td>
+    <td align="center" width="60%">
+        <a href="#-my-github-stats--"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=BaytBuyucusu&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true" alt="baytBubucusu" /></a>
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baytbuyucusu&" alt="baytbuyucusu" /></p>
+<a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
+<h2>
+  If you found this project useful or interesting, please consider giving it a 
+  <a href="https://github.com/HighAmbition211/HighAmbition211/#">
+    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" style="width:25px"> Star
+  </a>.
+  If you'd like to use this template, feel free to 
+  <a href="https://github.com/HighAmbition211/HighAmbition211/fork">
+    Fork
+  </a> 
+  it and customize it to your needs!
+</h2> 
 
-
-
-![snake gif](https://github.com/baytBuyucusu/baytBuyucusu/blob/output/github-contribution-grid-snake.gif)
-
-
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
-[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
-![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-
-
-
-
-
-Generates a snake game from a github user contributions graph
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-Pull a github user's contribution graph.
-Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
-
-Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image.
-
-Available as github action. It can automatically generate a new image each day. Which makes for great [github profile readme](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
 
 
