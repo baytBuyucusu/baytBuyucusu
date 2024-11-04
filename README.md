@@ -1,6 +1,6 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
-<h1> 💫 About Me  </h1>
+<h1> 💫 Hakkımda ✨🌟  </h1>
 
 <a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Summary.svg" /></a>
 
@@ -96,15 +96,15 @@
 <a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
 <h2>
-  If you found this project useful or interesting, please consider giving it a 
+  Bu projeyi yararlı veya ilginç bulduysanız lütfen ona bir 
   <a href="https://github.com/HighAmbition211/HighAmbition211/#">
     <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" style="width:25px"> Star
   </a>.
-  If you'd like to use this template, feel free to 
+  Yıldız vermeyi düşünün. Bu şablonu kullanmak istiyorsanız, 
   <a href="https://github.com/HighAmbition211/HighAmbition211/fork">
     Fork
   </a> 
-  it and customize it to your needs!
+  ihtiyaçlarınıza göre özelleştirmekten çekinmeyin!
 </h2> 
 
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
