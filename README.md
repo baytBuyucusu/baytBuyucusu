@@ -69,8 +69,21 @@
   </tr>
 </table>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-<a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 <h2>
   
    💬 <b><i>"Herhangi bir soru veya işbirliği için benimle iletişime geçmekten çekinme."</i></b><br> 💬 "<b>fotorukiyeb1544@gmail.com</b>"
