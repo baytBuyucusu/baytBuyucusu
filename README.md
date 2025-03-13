@@ -89,7 +89,7 @@
 
 <h2>
   
-   💬 <b><i>"Herhangi bir soru veya işbirliği için benimle iletişime geçmekten çekinme."</i></b><br> 💬 "<b>fotorukiyeb1544@gmail.com</b>"
+   💬 <b><i>"Herhangi bir soru veya işbirliği için benimle iletişime geçmekten çekinme."</i></b><br> 💬 "<b>rukiye14bali@gmail.com</b>"
 </h2>
 
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
